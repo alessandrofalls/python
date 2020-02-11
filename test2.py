@@ -8,3 +8,5 @@ collection = db["usuarios"]
 
 post = {"nome": "Fabio", "sobrenome": "Salesse", "Celular": "4499423161"}
 collection.insert_one(post)
+
+#teste
