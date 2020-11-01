@@ -1,3 +1,12 @@
 1. guia para clonar via ssh
 https://docs.github.com/pt/free-pro-team@latest/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent#adding-your-ssh-key-to-the-ssh-agent
 
+2. guia pratico e links
+https://rogerdudler.github.io/git-guide/index.pt_BR.html
+
+3. video do youtube 
+https://www.youtube.com/watch?v=UbJLOn1PAKw
+
+4. Guia não oficial
+https://git-scm.com/book/pt-br/v2
+
